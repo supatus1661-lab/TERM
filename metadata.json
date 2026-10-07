@@ -1,0 +1,6 @@
+{
+  "name": "MoneyTracker - บันทึกรายรับรายจ่าย",
+  "description": "ระบบจัดการรายรับรายจ่าย สรุปผลรายเดือน พร้อมกราฟวิเคราะห์ข้อมูลและบันทึกลง Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
